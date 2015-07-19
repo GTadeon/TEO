@@ -14,3 +14,4 @@ potrebno imati instaliran shell.
 
 Ovaj program predstavlja moj zavrsni rad za kolegij Raèunalna sinteza govora na Filozofskom fakultetu sveuèišta u Zagrebu,
 odsjek za informacijske znanosti kod prof. Nikolaj Laziæa.
+
